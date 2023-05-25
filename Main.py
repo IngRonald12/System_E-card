@@ -1,4 +1,4 @@
 import Modulo
 
 if __name__ == "__main__":
-    Modulo.principal()
+    Modulo.main_menu()
